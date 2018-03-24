@@ -6,10 +6,10 @@ public class Zool {
 	 * @param pet
 	 * @param street
 	 */
-	public void zool(int num, String pet, String street) {
+	public static void zool(int num, String pet, String street) {
 		
 	}
 	public static void main(String args[]) {
-		;
+		zool(11, "Strikie","PVL" );
 	}
 }
