@@ -9,7 +9,7 @@ public class OddSum {
 	}
 
 	/**
-	 * returns the sum of the odd numbers from 1 to the number passed as a parameter
+	 * Returns the sum of the odd numbers from 1 to the number passed as a parameter
 	 * 
 	 * @param n - the number desired to return the sum of the numbers from one to that number
 	 * @return the sum of odd numbers from one to the number inputed
