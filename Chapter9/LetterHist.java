@@ -9,6 +9,12 @@ public class LetterHist {
 			letterCnt++;
 		}
 	}
+	/**
+	 * takes a string and returns an array from 0-25 with 0 being a and 25 being z. each time it encounters a letter in the string it adds one to the
+	 * respective value
+	 * @param s - String to be entered to count letters
+	 * @return	array containing count of each letter
+	 */
 	public static int[] letterHist(String s) {
 		int[] letterArray = new int[26];
 		s = s.toUpperCase();
