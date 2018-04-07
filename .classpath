@@ -4,6 +4,7 @@
 	<classpathentry kind="src" path="Chapter7"/>
 	<classpathentry kind="src" path="ChapterEight"/>
 	<classpathentry kind="src" path="Chapter9"/>
+	<classpathentry kind="src" path="Chapter10"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="Chapter5"/>
 	<classpathentry kind="output" path="bin"/>
