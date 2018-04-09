@@ -21,14 +21,14 @@ public class Tile {
 	}
 
 	public boolean equals(Tile t) {
-		if(t.getLetter() != this.letter);
+		if (t.getLetter() != this.letter)
 			return false;
-			else if(t.getValue() != this.value);
-				return false;
-				
-				else {
-					return true;
-				}
+		else if (t.getValue() != this.value)
+			return false;
+
+		else {
+			return true;
+		}
 	}
 
 	public char getLetter() {
